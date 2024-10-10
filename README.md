@@ -5,7 +5,7 @@ To create a Contact Management System in C that allows users to add and view con
 Overview
 
 The Contact Management System will enable users to:
-Add New Contacts: Input details like name and phone number.
+Add New Contacts: Input details like name,phone number,email address.
 View Contacts: Display all stored contacts.
 Exit the Program: Cleanly terminate the application.
 
@@ -30,3 +30,4 @@ Compiling commands:
 • ./a.out
 
 git clone:
+https://github.com/snehascaria/Contact-management-system.git
