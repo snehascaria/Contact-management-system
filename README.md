@@ -15,3 +15,18 @@ Essential Keywords
 struct: To define the structure for contacts.
 printf, scanf: For input and output operations.
 return: To exit from functions.
+
+HOW TO COMPILE AND RUN THE PROGRAM
+
+Instal C Compiler. Open the terminal. Navigate to your directory in Ubuntu, by typing 'nano filename.c' you are able to type in the code (any filename can be given; Eg: struct.c). Clone the code and Save the code by pressing CRTL X and Y. Compile it by using gcc.
+
+Commands: 
+• mkdir directoryname (any directory name) 
+• cd dir-name (to access the directory) 
+• nano filename.c (to open a file to save the code)
+
+Compiling commands: 
+• gcc filename.c 
+• ./a.out
+
+git clone:
